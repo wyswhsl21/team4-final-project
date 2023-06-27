@@ -242,6 +242,7 @@ const Chatting = () => {
   // name handle socket 핸들러
 
   const handleSocketMessage = (message) => {
+    console.log('socket name 작동중');
     console.log(message);
     if (message.roomkey !== null) {
       setChattingBot(false);
@@ -273,7 +274,7 @@ const Chatting = () => {
 
   // broad casting 핸들러
   const handleBroadcastMessage = (message) => {
-    console.log(message);
+    console.log(' broadcast 작동중');
     // 상대방 나갔을 시
     if (message.leave === true) {
       setTimeout(() => setLeave(true), 2000);
@@ -333,8 +334,7 @@ const Chatting = () => {
 
       socket.once(`${name}`, handleSocketMessage);
 
-      socket.on(`${name}`, handleBroadcastMessage);
-      console.log('작동중');
+      socket.on('broadcast', handleBroadcastMessage);
 
       return () => {
         socket.off('broadcast', handleBroadcastMessage);
