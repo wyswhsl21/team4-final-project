@@ -29,22 +29,24 @@
 ### 🕹 페이지 소개
 
 
-|   Intro    |   회원가입      |  로그인 - 프로필 등록 |
+|    회원가입    |   로그인     |  프로필 등록 |
 | :-------------------------: |  :-------------------------: | :-------------------------: | 
-| ![Intro]()| ![creation-bg]() | ![creation-sticker]() |
+|![회원가입](https://github.com/wyswhsl21/team4-final-project/assets/108774881/8c8516c3-e8e0-4c76-9155-fc918a06ac6c)| ![로그인](https://github.com/wyswhsl21/team4-final-project/assets/108774881/d30ccbbe-6f22-4918-a7ca-7feca9e392b9)| |
 
-|   소셜 로그인     |   프로필 수정     |  출발역 - 도착역 입력 |
+|   소셜 로그인 |  공지사항   |  이용방법 |
 | :-------------------------: |  :-------------------------: | :-------------------------: | 
-| ![complete]()| ![backtocreation-]() | ![received]() |
-
-|   매칭 - 실패,성공     |   상대방 프로필 정보 보기     |  테스트 봇 매칭 |
-| :-------------------------: |  :-------------------------: | :-------------------------: | 
-| ![complete]()| ![backtocreation-]() | ![received]() |
+|![소셜로그인](https://github.com/wyswhsl21/team4-final-project/assets/108774881/f16ee8de-3e85-4841-b985-48d6c33e2f49)| ![공지사항](https://github.com/wyswhsl21/team4-final-project/assets/108774881/55033f18-5e44-4e87-b376-30b0ac43e962)| ![이용방법](https://github.com/wyswhsl21/team4-final-project/assets/108774881/86623c61-b9ed-471d-87eb-211880659da2)
 
 
-|  매칭 이력 - 대화하기     |   공지사항    |  회원탈퇴 |
+|   매칭 - 실패  |   매칭 성공   |  테스트 봇 매칭 |
 | :-------------------------: |  :-------------------------: | :-------------------------: | 
-| ![complete]()| ![backtocreation-]() | ![received]() |
+| ![매칭 실패](https://github.com/wyswhsl21/team4-final-project/assets/108774881/cf7d24f5-9f40-4926-85ef-806bb2ee11a7)|![매칭성공](https://github.com/wyswhsl21/team4-final-project/assets/108774881/2c6362b5-eb28-4d6d-89af-6abf3f6069d4)|![테스트봇](https://github.com/wyswhsl21/team4-final-project/assets/108774881/cbb6e0b1-6678-424c-a2ed-7acad96d24d4)
+
+
+
+|  상대방 나갈시    |  시간추가    |  회원탈퇴 |
+| :-------------------------: |  :-------------------------: | :-------------------------: | 
+| ![상대방 나갈시 팝업](https://github.com/wyswhsl21/team4-final-project/assets/108774881/0a2358bf-0c0b-44ed-85ab-36f589f10022)| ![시간추가](https://github.com/wyswhsl21/team4-final-project/assets/108774881/92eb1972-14c0-44e0-b2bf-9259f11cd678) | ![received]() |
 
 
 <br>
@@ -52,7 +54,7 @@
 ### 환승 시민 프로젝트 구성원
  
 |팀내 포지션|  이름 | 깃허브 |
-|--------|-------|------|
+|:--------:|:-------:|:------:|
 |BE| 안태환|https://github.com/nowhereim|
 |FE| 김재우|https://github.com/wyswhsl21|
 |DE| 박은지|https://twisty-study-b7e.notion.site/App-Re-Design-737f2518dffb457eadccddcf3cf69a0b|
