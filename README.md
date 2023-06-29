@@ -32,7 +32,7 @@
 |    회원가입    |   로그인     |  프로필 등록 |
 | :-------------------------: |  :-------------------------: | :-------------------------: | 
 |![회원가입](https://github.com/wyswhsl21/team4-final-project/assets/108774881/8c8516c3-e8e0-4c76-9155-fc918a06ac6c)| ![로그인](https://github.com/wyswhsl21/team4-final-project/assets/108774881/d30ccbbe-6f22-4918-a7ca-7feca9e392b9)|![프로필등록](https://github.com/wyswhsl21/team4-final-project/assets/108774881/497d4970-afec-45a2-8c7a-882cf7cb48af)
- |
+
 
 |   소셜 로그인 |  공지사항   |  이용방법 |
 | :-------------------------: |  :-------------------------: | :-------------------------: | 
