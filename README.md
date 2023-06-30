@@ -36,7 +36,7 @@
 
 |   소셜 로그인 |  공지사항   |  이용방법 |
 | :-------------------------: |  :-------------------------: | :-------------------------: | 
-|![소셜로그인](https://github.com/wyswhsl21/team4-final-project/assets/108774881/f16ee8de-3e85-4841-b985-48d6c33e2f49)| ![공지사항](https://github.com/wyswhsl21/team4-final-project/assets/108774881/55033f18-5e44-4e87-b376-30b0ac43e962)| ![이용방법](https://github.com/wyswhsl21/team4-final-project/assets/108774881/86623c61-b9ed-471d-87eb-211880659da2)
+|![소셜로그인](https://github.com/wyswhsl21/team4-final-project/assets/108774881/6de5a6f3-52da-46b1-b40f-a19735324731)| ![공지사항](https://github.com/wyswhsl21/team4-final-project/assets/108774881/55033f18-5e44-4e87-b376-30b0ac43e962)| ![이용방법](https://github.com/wyswhsl21/team4-final-project/assets/108774881/86623c61-b9ed-471d-87eb-211880659da2)
 
 
 |   매칭 - 실패  |   매칭 성공   |  테스트 봇 매칭 |
