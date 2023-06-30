@@ -47,7 +47,7 @@
 
 |  상대방 나갈시    |  시간추가    |  회원탈퇴 |
 | :-------------------------: |  :-------------------------: | :-------------------------: | 
-| ![상대방 나갈시 팝업](https://github.com/wyswhsl21/team4-final-project/assets/108774881/0a2358bf-0c0b-44ed-85ab-36f589f10022)| ![시간추가](https://github.com/wyswhsl21/team4-final-project/assets/108774881/92eb1972-14c0-44e0-b2bf-9259f11cd678) | ![received]() |
+| ![상대방 나갈시 팝업](https://github.com/wyswhsl21/team4-final-project/assets/108774881/0a2358bf-0c0b-44ed-85ab-36f589f10022)| ![시간추가](https://github.com/wyswhsl21/team4-final-project/assets/108774881/92eb1972-14c0-44e0-b2bf-9259f11cd678) | ![회원탈퇴](https://github.com/wyswhsl21/team4-final-project/assets/108774881/ddbe4647-3a14-40da-bd20-bd3ae7c82e39)
 
 
 <br>
