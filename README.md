@@ -49,6 +49,11 @@
 | :-------------------------: |  :-------------------------: | :-------------------------: | 
 | ![상대방 나갈시 팝업](https://github.com/wyswhsl21/team4-final-project/assets/108774881/0a2358bf-0c0b-44ed-85ab-36f589f10022)| ![시간추가](https://github.com/wyswhsl21/team4-final-project/assets/108774881/92eb1972-14c0-44e0-b2bf-9259f11cd678) | ![회원탈퇴](https://github.com/wyswhsl21/team4-final-project/assets/108774881/ddbe4647-3a14-40da-bd20-bd3ae7c82e39)
 
+|  대화요청    |  알람 받기    |  대화 수락하기 |
+| :-------------------------: |  :-------------------------: | :-------------------------: | 
+| ![대화요청하기](https://github.com/wyswhsl21/team4-final-project/assets/108774881/4ce54f43-4239-46f4-abe8-dc2dc4f9f7f3)|![알람 받기](https://github.com/wyswhsl21/team4-final-project/assets/108774881/1a2ed467-f81f-4afb-89bf-8e4b50110d1b)|![대화수락하기](https://github.com/wyswhsl21/team4-final-project/assets/108774881/48420902-d577-4394-a61c-92ebe5bef591)
+
+
 
 <br>
 
